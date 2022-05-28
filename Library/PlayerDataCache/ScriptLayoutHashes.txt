@@ -118,6 +118,8 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Job_point_Mgr
 c8c903715a5a8efed3db6abc2dd9f5d6 Assembly-CSharp.dll:.Audio_Source
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 edd4544d8e6243e41018e99cdfb2f54b Assembly-CSharp.dll:.Dice
 235fc8b4a759bf0175aa5ea7bfe79d35 Assembly-CSharp.dll:.Text_Mgr_job
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Messenger
